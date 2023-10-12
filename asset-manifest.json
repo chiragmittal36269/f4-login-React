@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/f4-login-React/static/css/main.80eb7e15.css",
+    "main.js": "/f4-login-React/static/js/main.3a928f3d.js",
+    "static/media/Background-Pattern.png": "/f4-login-React/static/media/Background-Pattern.0b8141e39145356609be.png",
+    "index.html": "/f4-login-React/index.html",
+    "main.80eb7e15.css.map": "/f4-login-React/static/css/main.80eb7e15.css.map",
+    "main.3a928f3d.js.map": "/f4-login-React/static/js/main.3a928f3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80eb7e15.css",
+    "static/js/main.3a928f3d.js"
+  ]
+}
